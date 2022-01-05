@@ -1,10 +1,10 @@
 # Challenge Ens’IA 2022 x Neovision - 2ème édition !
 
-_Lien d'inscription en bas du post_
+_Lien d'inscription à la fin du post_
 
 ## C'est quoi ce challenge ?
 
-Il s'agit d'un challenge d'intelligence artificielle organisé conjointement par [Neovision](https://neovision.fr) et [Ens'IA](https://github.com/YannSia/tutorials). Pour la deuxième édition de ce challenge, vous devrez créer une IA, mais pas de panique : des coachs de Neovision seront là pour vous accompagner !
+Il s'agit d'un challenge d'intelligence artificielle organisé conjointement par [Neovision](https://neovision.fr) et [Ens'IA](https://github.com/YannSia/tutorials). Pour la deuxième édition de ce challenge, vous devrez créer une IA, mais pas de panique : des coachs de Neovision seront là pour vous accompagner, et des workshops vous donnerons des connaissances supplémentaires !
 
 Ce challenge sera pour vous l'occasion de vivre un vrai projet IA et d'approfondir vos connaissances, mais aussi et surtout de vous amuser et de faire de belles rencontres ✨
 
@@ -43,6 +43,6 @@ Intéressé(s) ? Top 💯, alors notez bien ces dates :
 
 ## Inscription
 
-🔥 link
+[JE M'INSCRIS 🔥](https://forms.gle/C34Jswo9hVNtaiJZ7)
 
 ![](affiche-fb.png)
