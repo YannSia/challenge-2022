@@ -22,8 +22,13 @@ Vous serez par **équipes de 1 à 3 maximum** !
 
 Qui dit deuxième édition dit plus d'ambition, alors on vous gâte un peu plus sur les lots 😍 :
 
-- aa
-- bb
+- 3 NVIDIA Jetson 4Go
+- 3 NVIDIA Jetson 2Go
+- 9 bons cadeaux LDLC (200/150/100€)
+- 3 inscriptions [ECML PKDD](https://ecmlpkdd.org)
+- 3 trophées
+- Formations techniques Neovision
+- Entretiens pour un stage chez Neovision
 
 ## Les dates à retenir :
 
