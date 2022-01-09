@@ -8,7 +8,7 @@ Il s'agit d'un challenge d'intelligence artificielle organisé conjointement par
 
 Ce challenge sera pour vous l'occasion de vivre un vrai projet IA et d'approfondir vos connaissances, mais aussi et surtout de vous amuser et de faire de belles rencontres ✨
 
-L'année précédente, le challenge portait sur l'[OCR](https://en.wikipedia.org/wiki/Optical_character_recognition) et avait réunion plus de **30 participants** répartis en **12 équipes** qui se sont affrontées. Les meilleures équipes ont été récompensées de **6 cartes Nvidia Jetson**!
+L'année précédente, le challenge portait sur l'[OCR](https://en.wikipedia.org/wiki/Optical_character_recognition) et avait réuni plus de **30 participants** répartis en **12 équipes** qui se sont affrontées. Les meilleures équipes ont été récompensées de **6 cartes Nvidia Jetson**!
 
 ## L'édition 2022
 
@@ -35,7 +35,7 @@ Qui dit deuxième édition dit plus d'ambition, alors on vous gâte un peu plus 
 Intéressé(s) ? Top 💯, alors notez bien ces dates :
 
 - 16 décembre : Annonce du challenge & conférence IA
-- 15 janvier : Workshop traitement de données + découverte d'un outil développé par Neovision (Tadaviz)
+- **15-20 janvier (reprécisé sous peu (Covid))** : Workshop traitement de données + découverte d'un outil développé par Neovision (Tadaviz)
 - 20 janvier : Clôture des candidatures
 - 25 janvier : Association équipe/coatch
 - 1er février : Début du challenge et soirée de lancement
