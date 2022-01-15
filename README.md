@@ -35,8 +35,8 @@ Qui dit deuxième édition dit plus d'ambition, alors on vous gâte un peu plus 
 Intéressé(s) ? Top 💯, alors notez bien ces dates :
 
 - 16 décembre : Annonce du challenge & conférence IA
-- **15-20 janvier (reprécisé sous peu (Covid))** : Workshop traitement de données + découverte d'un outil développé par Neovision (Tadaviz)
-- 20 janvier : Clôture des candidatures
+- **20 janvier de 17h à 19h** : Workshop traitement de données + découverte d'un outil développé par Neovision (Tadaviz)
+- 23 janvier : Clôture des candidatures
 - 25 janvier : Association équipe/coatch
 - 1er février : Début du challenge et soirée de lancement
 - 8 février : 1er coaching
@@ -44,7 +44,7 @@ Intéressé(s) ? Top 💯, alors notez bien ces dates :
 - 17 février : Workshop collaboratif
 - 22 février : 3e coaching
 - 27 février : Fin du challenge
-- 3 mars : Soirée de cloture et résultats & remise des récompenses
+- Date incertaine : Soirée de cloture et résultats & remise des récompenses
 
 ## Inscription
 
