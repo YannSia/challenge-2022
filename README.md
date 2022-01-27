@@ -36,7 +36,7 @@ Intéressé(s) ? Top 💯, alors notez bien ces dates :
 
 - ✔️ 16 décembre : Annonce du challenge & conférence IA
 - ✔️ **20 janvier de 17h à 19h** : Workshop traitement de données + découverte d'un outil développé par Neovision (Tadaviz)
-- 23 janvier : Clôture des candidatures
+- ✔️ 23 janvier : Clôture des candidatures
 - 25 janvier : Association équipe/coatch
 - 1er février : Début du challenge et soirée de lancement
 - 8 février : 1er coaching
