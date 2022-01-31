@@ -1,6 +1,6 @@
 # Challenge Ens’IA 2022 x Neovision - 2ème édition !
 
-_Lien d'inscription à la fin du post_
+**Inscriptions closes**
 
 ## C'est quoi ce challenge ?
 
@@ -46,8 +46,16 @@ Intéressé(s) ? Top 💯, alors notez bien ces dates :
 - 27 février : Fin du challenge
 - Date incertaine : Soirée de cloture et résultats & remise des récompenses
 
+## Le workshop traitement de données :
+
+On espère que le workshop vous a plu ! Vous retrouverez ici toutes les notions qui ont été abordés : 
+- [Notebook partie 1](https://github.com/YannSia/challenge-2022/blob/master/workshop-data/Workshop_Challenge_ENS'IA_x_Neovision.ipynb) ou [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yannsia/challenge-2022/blob/master/workshop-data/data_preprocessing_using_keras.ipynb)  
+- [Notebook partie 2](https://github.com/YannSia/challenge-2022/blob/master/workshop-data/Workshop_Challenge_ENS'IA_x_Neovision.ipynb) ou [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yannsia/challenge-2022/blob/master/workshop-data/data_preprocessing_using_keras.ipynb)
+
+
 ## Inscription
 
-[JE M'INSCRIS 🔥](https://forms.gle/C34Jswo9hVNtaiJZ7)
+**Inscriptions closes**
+
 
 ![](affiche-fb.png)
