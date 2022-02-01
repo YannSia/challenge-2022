@@ -38,7 +38,7 @@ Intéressé(s) ? Top 💯, alors notez bien ces dates :
 - ✔️ **20 janvier de 17h à 19h** : Workshop traitement de données + découverte d'un outil développé par Neovision (Tadaviz)
 - ✔️ 23 janvier : Clôture des candidatures
 - ✔️ 25 janvier : Association équipe/coatch
-- 1er février : Début du challenge et soirée de lancement
+- ✔️ 1er février : Début du challenge et soirée de lancement
 - 8 février : 1er coaching
 - 15 février : 2e coaching
 - 17 février : Workshop collaboratif
@@ -48,14 +48,13 @@ Intéressé(s) ? Top 💯, alors notez bien ces dates :
 
 ## Le workshop traitement de données :
 
-On espère que le workshop vous a plu ! Vous retrouverez ici toutes les notions qui ont été abordés : 
-- [Notebook partie 1](https://github.com/YannSia/challenge-2022/blob/master/workshop-data/Workshop_Challenge_ENS'IA_x_Neovision.ipynb) ou [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yannsia/challenge-2022/blob/master/workshop-data/data_preprocessing_using_keras.ipynb)  
-- [Notebook partie 2](https://github.com/YannSia/challenge-2022/blob/master/workshop-data/Workshop_Challenge_ENS'IA_x_Neovision.ipynb) ou [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yannsia/challenge-2022/blob/master/workshop-data/data_preprocessing_using_keras.ipynb)
+On espère que le workshop vous a plu ! Vous retrouverez ici toutes les notions qui ont été abordés :
 
+- [Notebook partie 1](https://github.com/YannSia/challenge-2022/blob/master/workshop-data/Workshop_Challenge_ENS'IA_x_Neovision.ipynb) ou [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yannsia/challenge-2022/blob/master/workshop-data/data_preprocessing_using_keras.ipynb)
+- [Notebook partie 2](https://github.com/YannSia/challenge-2022/blob/master/workshop-data/Workshop_Challenge_ENS'IA_x_Neovision.ipynb) ou [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yannsia/challenge-2022/blob/master/workshop-data/data_preprocessing_using_keras.ipynb)
 
 ## Inscription
 
 **Inscriptions closes**
-
 
 ![](affiche-fb.png)
