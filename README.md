@@ -53,6 +53,22 @@ On espère que le workshop vous a plu ! Vous retrouverez ici toutes les notions 
 - [Notebook partie 1](https://github.com/YannSia/challenge-2022/blob/master/workshop-data/Workshop_Challenge_ENS'IA_x_Neovision.ipynb) ou [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yannsia/challenge-2022/blob/master/workshop-data/data_preprocessing_using_keras.ipynb)
 - [Notebook partie 2](https://github.com/YannSia/challenge-2022/blob/master/workshop-data/Workshop_Challenge_ENS'IA_x_Neovision.ipynb) ou [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yannsia/challenge-2022/blob/master/workshop-data/data_preprocessing_using_keras.ipynb)
 
+## FAQ
+
+**Note :** Le code que vous fournissez ne sera pas analysé si vous n'êtes pas dans le top 3 des équipes. Les 3 équipes gagnantes auront seulement quelques jours après la fin du challenge pour envoyer leur code à Ens'IA (et éventuellement d'autres données qu'elles auront pu ajouter). Le code reste votre propriété, nous ne ferons que vérifier qu'il est bien possible d'attendre le score soumis sur Codalab en effectuant un entrainement et une prédiction avec les hyperparamètres fournis.
+
+- **Est-il possible d'annoter les images de test ?** -> NONNNN surout pas malheureux !
+- **Y a-t'il de la détection d'objet dans le challenge ?** -> Non, contrairement à ce qu'on avait pu éventuellement évoquer, il s'agit de la classification de déchets !
+- **Avons-nous le droit de rajouter des images dans le dataset ?** -> Oui, mais nous vous demandons de les sourcer pour que nous puissions vérifier leur provenance lors de la vérification finale.
+- **Ai-je le droit de prendre des modèles en ligne qui sont déjà tout près ?** -> Oui, sauf s'il s'agit de modèles qui détectent déjà les déchets, c'est à vous de créer l'IA :)
+- **Pouvons-nous utiliser utiliser du transfer learning ?** -> Oui mais attention, prendre un modèle qui sait déjà détecter des déchets, ce n'est plus du transfer learning mais de la triche !
+- **Au niveau du coatching, comment ça se passe ?** -> Et bien, en fait, c'est assez libre : à vous de contacter votre coatch et de vous mettre d'accord sur le créneau qui vous convient. Un coach ayant plusieurs équipes, c'est au shotgun ! Pour des raison d'équité, les coatch sont briefés pour que chaque équipe aient le même niveau d'aide et le même temps de coaching (~1h/semaine).
+- **Les coaching seront-ils en présentiel ?** -> Malheureusement non (sauf pour le workshop collaboratif), mais ça vous laisse plus de libertés pour vous organiser !
+- **Où le workshop colaboratif se déroulera-t'il ?** -> Chez Neovision ! (on vous tiens au jus, réservez juste la date)
+- **Niveau difficulté, à quoi faut-il s'attendre ?** -> C'est un challenge, c'est fait exprès que ce soit dûr, mais le but est d'être meilleur que les autres, pas d'avoir 99.999% d'accuracy
+- **Peut-on changer d'équipe ?** -> Théoriquement oui, jusqu'au 1er coaching (mardi 08/02), mais dans les faits vous devez prendre rendez-vous avec votre coatch dès que possible Donc ne tardez pas trop ! Veuillez nous contacter par mail/Discord pour toute demande de changement.
+- **Et Tadaviz (outil de Neovision) dans tout ça ?** -> On travaille dessus ; on essaye de vous le rendre accessible dès que possible.
+
 ## Inscription
 
 **Inscriptions closes**
