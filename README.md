@@ -51,7 +51,7 @@ Intéressé(s) ? Top 💯, alors notez bien ces dates :
 On espère que le workshop vous a plu ! Vous retrouverez ici toutes les notions qui ont été abordés :
 
 - [Notebook partie 1](https://github.com/YannSia/challenge-2022/blob/master/workshop-data/Workshop_Challenge_ENS'IA_x_Neovision.ipynb) ou [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yannsia/challenge-2022/blob/master/workshop-data/Workshop_Challenge_ENS'IA_x_Neovision.ipynb)
-- [Notebook partie 2](https://github.com/YannSia/challenge-2022/blob/master/data_preprocessing_using_keras.ipynb) ou [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yannsia/challenge-2022/blob/master/workshop-data/data_preprocessing_using_keras.ipynb)
+- [Notebook partie 2](https://github.com/YannSia/challenge-2022/blob/master/workshop-data/data_preprocessing_using_keras.ipynb) ou [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yannsia/challenge-2022/blob/master/workshop-data/data_preprocessing_using_keras.ipynb)
 
 ## FAQ
 
