@@ -39,9 +39,9 @@ Intéressé(s) ? Top 💯, alors notez bien ces dates :
 - ✔️ 23 janvier : Clôture des candidatures
 - ✔️ 25 janvier : Association équipe/coatch
 - ✔️ 1er février : Début du challenge et soirée de lancement
-- 8 février : 1er coaching
-- 15 février : 2e coaching
-- 22 février : Workshop collaboratif
+- ✔️ 8 février : 1er coaching
+- ✔️ 15 février : 2e coaching
+- ✔️ 24 février : Workshop collaboratif
 - 1 mars : 3e coaching
 - 8 mars : Fin du challenge
 - 16 mars : Soirée de cloture et résultats & remise des récompenses
