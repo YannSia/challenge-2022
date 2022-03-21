@@ -17,7 +17,7 @@ L'année précédente, le challenge portait sur l'[OCR](https://en.wikipedia.org
 ### Le sujet 🤩
 
 Nous avons choisi un sujet qui nous tient à coeur : **l'environnement** 🌍
-Pour être plus précis, vôtre tâche sera de produire un modèle capable de **détecter** et **classifer** différents types de **déchets** sur des images.
+Pour être plus précis, vôtre tâche sera de produire un modèle capable de **classifer** différents types de **déchets** sur des images.
 Vous serez par **équipes de 1 à 3 maximum** !
 
 Qui dit deuxième édition dit plus d'ambition, alors on vous gâte un peu plus sur les lots 😍 :
