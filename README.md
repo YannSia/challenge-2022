@@ -42,9 +42,9 @@ Intéressé(s) ? Top 💯, alors notez bien ces dates :
 - ✔️ 8 février : 1er coaching
 - ✔️ 15 février : 2e coaching
 - ✔️ 24 février : Workshop collaboratif
-- 1 mars : 3e coaching
-- 8 mars : Fin du challenge
-- 16 mars : Soirée de cloture et résultats & remise des récompenses
+- ✔️ 1 mars : 3e coaching
+- ✔️ 10 mars : Fin du challenge
+- ✔️ 16 mars : Soirée de cloture et résultats & remise des récompenses
 
 ## Le workshop traitement de données :
 
